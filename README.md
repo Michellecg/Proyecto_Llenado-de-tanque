@@ -427,6 +427,7 @@ El dashboard muestra un mensaje dependiendo el estado en el que se encuentre la 
 
 # Créditos
 
-Desarrollado por Michelle Cuatlapantzi González
-
-- [GitHub](https://github.com/Michellecg/)
+Desarrollado por:
+- Brian Axel Miranda Maldonado
+- Javier Cortés
+- Michelle Cuatlapantzi González
